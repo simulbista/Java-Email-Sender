@@ -1,0 +1,6 @@
+2023-08-16T00:11:08.012-04:00  INFO 24104 --- [main] c.h.eap.EmailSenderApplicationTests      : Starting EmailSenderApplicationTests using Java 17.0.7 with PID 24104 (started by simul in C:\Users\simul\eclipse-workspace3\EmailSender)
+2023-08-16T00:11:08.014-04:00  INFO 24104 --- [main] c.h.eap.EmailSenderApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2023-08-16T00:11:09.332-04:00  INFO 24104 --- [main] c.h.eap.EmailSenderApplicationTests      : Started EmailSenderApplicationTests in 1.631 seconds (process running for 2.56)
+2023-08-16T00:11:45.425-04:00  INFO 24768 --- [http-nio-8080-exec-1] com.humber.eap.aop.MailAspect            : Time taken to send the mail is  is 11887 ms!
+2023-08-16T11:24:37.208-04:00  INFO 9512 --- [http-nio-8080-exec-2] com.humber.eap.aop.MailAspect            : Time taken to send the mail is  is 20892 ms!
+2023-08-16T11:26:23.402-04:00  INFO 9512 --- [http-nio-8080-exec-5] com.humber.eap.aop.MailAspect            : Time taken to send the mail is  is 20798 ms!
